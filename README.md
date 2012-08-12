@@ -30,7 +30,7 @@ Yep- it looks almost identical to Github's markdown parser.
 ![Rack Markdown
 Screenshot](https://dl.dropbox.com/u/5490406/github/rack-markdown-screenshot.png)
 
-# Contribution
+## Contribution
 
 Feel free. No pull request is too small.
 
