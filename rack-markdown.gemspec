@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.author      = 'Christopher Patuzzo'
   s.email       = 'chris@patuzzo.co.uk'
   s.files       = ['README.md'] + Dir['lib/**/*.*']
-  s.homepage    = 'https://github.com/cpatuzzo/rack-source'
+  s.homepage    = 'https://github.com/cpatuzzo/rack-markdown'
 
   s.add_dependency 'rack'
   s.add_dependency 'pygments.rb'
