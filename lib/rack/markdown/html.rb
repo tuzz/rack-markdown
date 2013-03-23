@@ -9,7 +9,7 @@ module Rack::Markdown::HTML
       <div id='outer'>
         <div id='title'>
           <span id='filename'>#{path}</span>
-          <span id='version'><a href='https://github.com/cpatuzzo/rack-markdown'>rack-markdown (v#{self.class.version})</a></span>
+          <span id='version'><a href='https://github.com/tuzz/rack-markdown'>rack-markdown (v#{self.class.version})</a></span>
         </div>
         <div id='inner'>#{rendered}</div>
       </div>

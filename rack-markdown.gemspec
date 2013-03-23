@@ -5,10 +5,10 @@ Gem::Specification.new do |s|
   s.version     = ::Rack::Markdown.version
   s.summary     = 'Rack Markdown'
   s.description = 'Serves a markdown file'
-  s.author      = 'Christopher Patuzzo'
+  s.author      = 'Chris Patuzzo'
   s.email       = 'chris@patuzzo.co.uk'
   s.files       = ['README.md'] + Dir['lib/**/*.*']
-  s.homepage    = 'https://github.com/cpatuzzo/rack-markdown'
+  s.homepage    = 'https://github.com/tuzz/rack-markdown'
 
   s.add_dependency 'rack'
   s.add_dependency 'pygments.rb'
