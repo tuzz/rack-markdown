@@ -28,7 +28,7 @@ If you're using a newer version of Ruby, you'll need to run a [thin](http://code
 Yep- it looks almost identical to Github's markdown parser.
 
 ![Rack Markdown
-Screenshot](https://dl.dropbox.com/u/5490406/github/rack-markdown-screenshot.png)
+Screenshot](https://raw.github.com/tuzz/rack-markdown/master/screenshot.png)
 
 ## Contribution
 
