@@ -29,9 +29,3 @@ Yep- it looks almost identical to Github's markdown parser.
 
 ![Rack Markdown
 Screenshot](https://raw.github.com/tuzz/rack-markdown/master/screenshot.png)
-
-## Contribution
-
-Feel free. No pull request is too small.
-
-Twitter: [@cpatuzzo](https://twitter.com/#!/cpatuzzo)
